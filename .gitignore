@@ -1,0 +1,49 @@
+# Logs
+/Aulas/logs
+/Aulas/*.log
+/Aulas/npm-debug.log*
+/Aulas/yarn-debug.log*
+/Aulas/yarn-error.log*
+/Aulas/pnpm-debug.log*
+/Aulas/lerna-debug.log*
+
+node_modules
+/Aulas/dist
+/Aulas/dist-ssr
+/Aulas/*.local
+
+# Editor directories and files
+/Aulas/.vscode/*
+/Aulas/!.vscode/extensions.json
+/Aulas/.idea
+/Aulas/.DS_Store
+/Aulas/*.suo
+/Aulas/*.ntvs*
+/Aulas/*.njsproj
+/Aulas/*.sln
+/Aulas/*.sw?
+
+# Logs
+/redux-aula/logs
+/redux-aula/*.log
+/redux-aula/npm-debug.log*
+/redux-aula/yarn-debug.log*
+/redux-aula/yarn-error.log*
+/redux-aula/pnpm-debug.log*
+/redux-aula/lerna-debug.log*
+
+/redux-aula/node_modules
+/redux-aula/dist
+/redux-aula/dist-ssr
+/redux-aula/*.local
+
+# Editor directories and files
+/redux-aula/.vscode/*
+/redux-aula/!.vscode/extensions.json
+/redux-aula/.idea
+/redux-aula/.DS_Store
+/redux-aula/*.suo
+/redux-aula/*.ntvs*
+/redux-aula/*.njsproj
+/redux-aula/*.sln
+/redux-aula/*.sw?

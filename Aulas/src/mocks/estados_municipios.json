@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "grupo": "Acre",
+    "itens": [
+      "Rio Branco",
+      "Cruzeiro do Sul",
+      "Sena Madureira",
+      "Tarauacá",
+      "Feijó"
+    ]
+  },
+  {
+    "id": 2,
+    "grupo": "Alagoas",
+    "itens": [
+      "Maceió",
+      "Arapiraca",
+      "Palmeira dos Índios",
+      "Rio Largo",
+      "Penedo"
+    ]
+  },
+  {
+    "id": 3,
+    "grupo": "Amapá",
+    "itens": [
+      "Macapá",
+      "Santana",
+      "Laranjal do Jari",
+      "Oiapoque",
+      "Mazagão"
+    ]
+  },
+  {
+    "id": 4,
+    "grupo": "Amazonas",
+    "itens": [
+      "Manaus",
+      "Parintins",
+      "Itacoatiara",
+      "Manacapuru",
+      "Coari"
+    ]
+  },
+  {
+    "id": 5,
+    "grupo": "Bahia",
+    "itens": [
+      "Salvador",
+      "Feira de Santana",
+      "Vitória da Conquista",
+      "Camaçari",
+      "Juazeiro"
+    ]
+  },
+  {
+    "id": 6,
+    "grupo": "Ceará",
+    "itens": [
+      "Fortaleza",
+      "Caucaia",
+      "Juazeiro do Norte",
+      "Maracanaú",
+      "Sobral"
+    ]
+  },
+  {
+    "id": 7,
+    "grupo": "Distrito Federal",
+    "itens": [
+      "Brasília"
+    ]
+  },
+  {
+    "id": 8,
+    "grupo": "Espírito Santo",
+    "itens": [
+      "Vitória",
+      "Vila Velha",
+      "Serra",
+      "Cariacica",
+      "Linhares"
+    ]
+  },
+  {
+    "id": 9,
+    "grupo": "Goiás",
+    "itens": [
+      "Goiânia",
+      "Aparecida de Goiânia",
+      "Anápolis",
+      "Rio Verde",
+      "Luziânia"
+    ]
+  },
+  {
+    "id": 10,
+    "grupo": "Maranhão",
+    "itens": [
+      "São Luís",
+      "Imperatriz",
+      "São José de Ribamar",
+      "Timon",
+      "Caxias"
+    ]
+  },
+  {
+    "id": 11,
+    "grupo": "Mato Grosso",
+    "itens": [
+      "Cuiabá",
+      "Várzea Grande",
+      "Rondonópolis",
+      "Sinop",
+      "Tangará da Serra"
+    ]
+  },
+  {
+    "id": 12,
+    "grupo": "Mato Grosso do Sul",
+    "itens": [
+      "Campo Grande",
+      "Dourados",
+      "Três Lagoas",
+      "Corumbá",
+      "Ponta Porã"
+    ]
+  },
+  {
+    "id": 13,
+    "grupo": "Minas Gerais",
+    "itens": [
+      "Belo Horizonte",
+      "Uberlândia",
+      "Contagem",
+      "Juiz de Fora",
+      "Betim"
+    ]
+  },
+  {
+    "id": 14,
+    "grupo": "Pará",
+    "itens": [
+      "Belém",
+      "Ananindeua",
+      "Santarém",
+      "Marabá",
+      "Parauapebas"
+    ]
+  },
+  {
+    "id": 15,
+    "grupo": "Paraíba",
+    "itens": [
+      "João Pessoa",
+      "Campina Grande",
+      "Santa Rita",
+      "Patos",
+      "Bayeux"
+    ]
+  },
+  {
+    "id": 16,
+    "grupo": "Paraná",
+    "itens": [
+      "Curitiba",
+      "Londrina",
+      "Maringá",
+      "Ponta Grossa",
+      "Cascavel"
+    ]
+  },
+  {
+    "id": 17,
+    "grupo": "Pernambuco",
+    "itens": [
+      "Recife",
+      "Jaboatão dos Guararapes",
+      "Olinda",
+      "Caruaru",
+      "Petrolina"
+    ]
+  },
+  {
+    "id": 18,
+    "grupo": "Piauí",
+    "itens": [
+      "Teresina",
+      "Parnaíba",
+      "Picos",
+      "Floriano",
+      "Piripiri"
+    ]
+  },
+  {
+    "id": 19,
+    "grupo": "Rio de Janeiro",
+    "itens": [
+      "Rio de Janeiro",
+      "São Gonçalo",
+      "Duque de Caxias",
+      "Nova Iguaçu",
+      "Niterói"
+    ]
+  },
+  {
+    "id": 20,
+    "grupo": "Rio Grande do Norte",
+    "itens": [
+      "Natal",
+      "Mossoró",
+      "Parnamirim",
+      "Caicó",
+      "Currais Novos"
+    ]
+  },
+  {
+    "id": 21,
+    "grupo": "Rio Grande do Sul",
+    "itens": [
+      "Porto Alegre",
+      "Caxias do Sul",
+      "Pelotas",
+      "Canoas",
+      "Santa Maria"
+    ]
+  },
+  {
+    "id": 22,
+    "grupo": "Rondônia",
+    "itens": [
+      "Porto Velho",
+      "Ji-Paraná",
+      "Ariquemes",
+      "Vilhena",
+      "Cacoal"
+    ]
+  },
+  {
+    "id": 23,
+    "grupo": "Roraima",
+    "itens": [
+      "Boa Vista",
+      "Rorainópolis",
+      "Caracaraí",
+      "Pacaraima",
+      "Mucajaí"
+    ]
+  },
+  {
+    "id": 24,
+    "grupo": "Santa Catarina",
+    "itens": [
+      "Florianópolis",
+      "Joinville",
+      "Blumenau",
+      "Chapecó",
+      "Criciúma"
+    ]
+  },
+  {
+    "id": 25,
+    "grupo": "São Paulo",
+    "itens": [
+      "São Paulo",
+      "Campinas",
+      "São Bernardo do Campo",
+      "Santo André",
+      "Guarulhos"
+    ]
+  },
+  {
+    "id": 26,
+    "grupo": "Sergipe",
+    "itens": [
+      "Aracaju",
+      "Nossa Senhora do Socorro",
+      "Lagarto",
+      "Itabaiana",
+      "Estância"
+    ]
+  },
+  {
+    "id": 27,
+    "grupo": "Tocantins",
+    "itens": [
+      "Palmas",
+      "Araguaína",
+      "Gurupi",
+      "Porto Nacional",
+      "Paraíso do Tocantins"
+    ]
+  }
+]
